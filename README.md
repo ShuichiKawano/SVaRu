@@ -29,7 +29,7 @@ gam_1_vec <- seq(start_gamma_1, end_gamma_1, length = n_gamma)
 gam_2_vec <- seq(start_gamma_2, end_gamma_2, length = n_gamma)
 ```
 
-Perform spcrSVD
+Perform SVaRu.
 ```
 # Perform SVaRu in the file SVaRu.R
 SVaRu(exp_data, res_data, basis_num_vec, width_para, gam_1_vec, gam_2_vec)
