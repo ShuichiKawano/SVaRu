@@ -13,7 +13,7 @@ source("R/SVaRu.R")
 
 Setting of simulation.
 ```
-source("sample_generation.R")
+source("R/sample_generation.R")
 n_sample <- 200 # sample size
 sample <- sample_generation(n_sample)
 exp_data <- sample$exp_data
