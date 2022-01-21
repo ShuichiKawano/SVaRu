@@ -7,6 +7,8 @@ This is an R source code for performing smoothing varying regularization (SVaRu)
 SVaRu is introduced in the paper:
 Kim, D., Kawano, S. and Ninomiya, Y. (2021) Smoothly varying ridge regularization. arXiv:2102.00136 [URL](https://arxiv.org/abs/2102.00136).
 
+The zip file "SimulationRealdata.zip" also includes source codes to perform simulations and real data analysis in the above paper. 
+
 ## Usage example
 Read source files.
 ```
