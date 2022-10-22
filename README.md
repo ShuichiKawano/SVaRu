@@ -5,7 +5,7 @@ This is an R source code for performing smoothing varying regularization (SVaRu)
 - **SVaRu.R** provides SVaRu with the values of tuning parameters selected by generalized information criterion. 
 
 SVaRu is introduced in the paper:
-Kim, D., Kawano, S. and Ninomiya, Y. (2021) Smoothly varying ridge regularization. arXiv:2102.00136 [URL](https://arxiv.org/abs/2102.00136).
+Kim, D., Kawano, S. and Ninomiya, Y. (2022) Smoothly varying regularization. *Computational Statistics & Data Analysis (accepted)*. arXiv:2102.00136 [URL](https://arxiv.org/abs/2102.00136).
 
 The zip file "SimulationRealdata.zip" also includes source codes to perform simulations and real data analysis in the above paper. 
 
